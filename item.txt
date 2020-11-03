@@ -1,0 +1,5 @@
+assignment = Priority:2
+eating = Priority:1
+playing = Priority:5
+social media = Priority:4
+watching tv = Priority:3
